@@ -4,13 +4,17 @@
 icon:city Chengdu University of Information Technology / Blockchain Engineering (Bachelor's)
 icon:work Java Backend Development 
 :::
+
 icon:email xspemin@gmail.com
 icon:phone -185xxxxxxxx
+
 :::
 icon:school GPA:3.51 / 10Top%
 ::: end
+
 ::: headEnd
 &nbsp 
+
 ## icon:technology Professional Skills
 - Proficient in Java programming basics, IO operations, collections, JDBC, Maven, and understanding of common design patterns.
 - Familiar with MySQL and capable of writing SQL, understanding MySQL logical architecture, indexes, locks, transactions, etc.
