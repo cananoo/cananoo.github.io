@@ -15,7 +15,7 @@
 - Familiar with SpringCloud microservices, Nacos service registration, configuration management, OpenFeign service discovery, Gateway gateway routing, Sentinel service protection, and Seata distributed transaction deployment.
 - Familiar with common data structures such as arrays, linked lists, stacks, queues, binary trees, etc., and understanding of recursion, dynamic programming, and common sorting algorithms.
 - Familiar with Docker, Git, and other microservices tools.
-- Knowledge of HTML, CSS, JavaScript, Vue, Axios, Ajax, and ability to write simple web pages.
+- Knowledge of HTML, CSS, JavaScript, Vue, Axios, Ajax, and ability to write simple web pages.    
 **Other**:
 - Understanding of cryptography, capable of implementing simple password algorithms, solid computer fundamentals.
 - Reserve in blockchain-related technologies such as P2P networks, consensus algorithms, Solidity, etc.
